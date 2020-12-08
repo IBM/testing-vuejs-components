@@ -1,4 +1,4 @@
-# testing-vuejs-components
+# Testing VueJs Components
 Tutorial for testing VueJs components
 
 This is a sample VueJS appliction created with [VueCLI](https://cli.vuejs.org/) for the purposes of following the tutorial on testing VueJS components.
